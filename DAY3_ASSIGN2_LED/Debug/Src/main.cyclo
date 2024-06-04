@@ -1,0 +1,5 @@
+../Src/main.c:31:6:AperiodicRED_LED	1
+../Src/main.c:41:6:AperiodicGREEN_LED	1
+../Src/main.c:51:6:AperiodicBLUE_LED	1
+../Src/main.c:61:6:AperiodicORANGE_LED	1
+../Src/main.c:71:5:main	1
