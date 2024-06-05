@@ -34,7 +34,7 @@ void vAperiodicUART(void *pmParam)
 	while(1)
 	{
 		UartPuts("HELLO!\r\n");
-		UartPuts("THIS IS MUSKAN!\r\n");
+		UartPuts("THIS IS Nikhil!\r\n");
 		vTaskDelay(1000/portTICK_RATE_MS);
 
 	}
